@@ -5,8 +5,8 @@ from classes import Root
 from classes import Response
 
 #Constants
-MY_LATITUDE = 52.788400
-MY_LONGITUDE = 18.270860
+MY_LATITUDE =  53.123482
+MY_LONGITUDE = 18.0084380
 LOCAL_TIMEZONE = pytz.timezone("Europe/Warsaw")
 
 #Parameters to post
